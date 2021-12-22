@@ -27,7 +27,6 @@ for i in range(1,n):
 # q2 = "insert into questions(QID, qstn, opA, opB, opC, opD, ans) values('%d','%s','%s','%s','%s','%s','%s')"
 # arg = (int(lst[0]), lst[1], lst[2], lst[3], lst[4], lst[5], lst[6])
 # cursor.execute(q2 % arg)
-# conn.commit()
 
 cursor.close()
 conn.close()
