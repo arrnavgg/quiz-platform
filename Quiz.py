@@ -415,7 +415,7 @@ class Quiz:
         self.qno -= 1
         if self.qno < 0:
             self.qno += 1
-            messagebox.showerror("Error", "You are already in the start!!!")
+            messagebox.showerror("Error", "You are already in the start!")
         else:
             self.display_q(self.qno)
             c = l1[self.qno]
