@@ -46,7 +46,7 @@ CREATE TABLE `reg` (
 
 LOCK TABLES `reg` WRITE;
 /*!40000 ALTER TABLE `reg` DISABLE KEYS */;
-INSERT INTO `reg` VALUES ('Parth','Panchal','parth69@gmail.com','htrap','202fc4b64c79d51efe7eb5c86a290812d8986c27',0),('Veer','Pillai','mayur@gmail.com','mayur1811','44ba4cf6b208f568369b8930a9a23083c1dde58f',4);
+INSERT INTO `reg` VALUES ('Arnav','Gupta','arnav69@gmail.com','htrap','202fc4b64c79d51efe7eb5c86a290812d8986c27',0),('Abc','Def','abcdef@gmail.com','qwerty1811','44ba4cf6b208f568369b8930a9a23083c1dde58f',4);
 /*!40000 ALTER TABLE `reg` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
